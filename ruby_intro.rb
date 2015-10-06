@@ -1,3 +1,4 @@
+# When done, submit this entire file.
 
 # Part 1
 
@@ -79,7 +80,7 @@ def hello(name)
 
 end
 
-def starts_with_consonant?(s) 
+def starts_with_consonant? s 
 
    return false if s.length == 0
   
