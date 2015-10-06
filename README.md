@@ -10,7 +10,7 @@
      * max_2_sum (arr,n)
      * sum_to_n? (arr,n)
 * Part 2
-    * hello (name
+    * hello (name)
     * starts_with_consonant?(s)
     * binary_multiple_of_4?(s)
 * Part 3
