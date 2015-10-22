@@ -3,10 +3,6 @@
 
 ## File instruction
 
-### hw1
-  
-* lib/ruby_intro.rb 
-
 ### hw2
 
 * lib/fun_with_strings.rb
