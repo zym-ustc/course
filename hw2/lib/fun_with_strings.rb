@@ -18,7 +18,7 @@ module FunWithStrings
   def anagram_groups
     # your code here
     hash = {}
-    self.split('').each do |word|
+    self.split(' ').each do |word|
       if hash.has_key?(word.chars.sort) then hash[word.chars.sort] += [word]
                                         else hash[word.chars.sort] = [word]
       end
